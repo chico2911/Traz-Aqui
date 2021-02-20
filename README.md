@@ -1,6 +1,6 @@
 # Traz Aqui!
 ## Projeto Inserido na Unidade Curricular Programação Orientada a Objetos 2019/2020
-### [Mestrado Integrado em Engenhária Informática na Universidade do Minho](https://miei.di.uminho.pt/)
+### [Mestrado Integrado em Engenharia Informática na Universidade do Minho](https://miei.di.uminho.pt/)
 
 O **Traz Aqui** é um projeto realizado dentro do âmbito da avalicação prática de POO. Este foi implementado em Java e permite ao utilizador executar compras. Apesar de um projeto bem realizado peca pelo encapsulamento não implementado, isto é em todo o projeto são respeitadas as regras do encapsulamento, exceto na interface desenhada, que ao invês de receber texto e apresentar apenas e somente texto, depende das classes do Model para funcionar. Todas as funcionalidades e funcionalidades extra, bem como mais algumas foram implementadas. É notório praticalidade do manuseamento em ficheiros json e a práticalidade da linguagem Java.
 
